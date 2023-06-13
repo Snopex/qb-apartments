@@ -1,5 +1,5 @@
 # qb-apartments
-# discord : https://discord.gg/Bkjp94Ydc9
+# discord : https://discord.gg/Ks2U2b4yhh
  
  <pre class="notranslate"><code>QBCore Framework
 Copyright (C) 2021 Joshua Eger
